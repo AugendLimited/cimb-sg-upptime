@@ -1,7 +1,7 @@
 url: https://auth-dev.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration
 status: down
 code: 503
-responseTime: 290
-lastUpdated: 2026-05-12T20:42:39.897Z
+responseTime: 236
+lastUpdated: 2026-05-12T23:21:40.876Z
 startTime: 2026-05-12T12:57:18.308Z
 generator: Upptime <https://github.com/upptime/upptime>
