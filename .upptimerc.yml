@@ -6,28 +6,28 @@ sites:
     url: https://app-dev.sg.augend.io/health/
     maxResponseTime: 10000
   - name: Keycloak DEV OIDC
-    url: https://auth-dev.sg.augend.io/realms/master/.well-known/openid-configuration
+    url: https://auth-dev.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration
     maxResponseTime: 10000
 
   - name: Django QA Health
     url: https://app-qa.sg.augend.io/health/
     maxResponseTime: 10000
   - name: Keycloak QA OIDC
-    url: https://auth-qa.sg.augend.io/realms/master/.well-known/openid-configuration
+    url: https://auth-qa.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration
     maxResponseTime: 10000
 
   - name: Django UAT Health
     url: https://app-uat.sg.augend.io/health/
     maxResponseTime: 10000
   - name: Keycloak UAT OIDC
-    url: https://auth-uat.sg.augend.io/realms/master/.well-known/openid-configuration
+    url: https://auth-uat.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration
     maxResponseTime: 10000
 
   - name: Django PROD Health
     url: https://app-prod.sg.augend.io/health/
     maxResponseTime: 10000
   - name: Keycloak PROD OIDC
-    url: https://auth-prod.sg.augend.io/realms/master/.well-known/openid-configuration
+    url: https://auth-prod.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration
     maxResponseTime: 10000
 
 status-website:
