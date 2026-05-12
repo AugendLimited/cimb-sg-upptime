@@ -1,26 +1,41 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AugendLimited
+repo: cimb-sg-upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Django DEV Health
+    url: https://app-dev.sg.augend.io/health/
+    maxResponseTime: 10000
+  - name: Keycloak DEV OIDC
+    url: https://auth-dev.sg.augend.io/realms/master/.well-known/openid-configuration
+    maxResponseTime: 10000
+
+  - name: Django QA Health
+    url: https://app-qa.sg.augend.io/health/
+    maxResponseTime: 10000
+  - name: Keycloak QA OIDC
+    url: https://auth-qa.sg.augend.io/realms/master/.well-known/openid-configuration
+    maxResponseTime: 10000
+
+  - name: Django UAT Health
+    url: https://app-uat.sg.augend.io/health/
+    maxResponseTime: 10000
+  - name: Keycloak UAT OIDC
+    url: https://auth-uat.sg.augend.io/realms/master/.well-known/openid-configuration
+    maxResponseTime: 10000
+
+  - name: Django PROD Health
+    url: https://app-prod.sg.augend.io/health/
+    maxResponseTime: 10000
+  - name: Keycloak PROD OIDC
+    url: https://auth-prod.sg.augend.io/realms/master/.well-known/openid-configuration
+    maxResponseTime: 10000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.sg.augend.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: CIMB SG Status
+  introTitle: "CIMB SG Environment Status"
+  introMessage: Status page for CIMB SG Django and Keycloak environment checks.
   navbar:
     - title: Status
       href: /
