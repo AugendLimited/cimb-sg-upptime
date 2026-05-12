@@ -4,55 +4,59 @@
     "url": "https://app-dev.sg.augend.io/health/",
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.sg.augend.io.ico",
     "slug": "django-dev-health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1788,
-    "timeDay": 1788,
-    "timeWeek": 1788,
-    "timeMonth": 1788,
-    "timeYear": 1788,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 1049,
+    "timeDay": 1049,
+    "timeWeek": 1049,
+    "timeMonth": 1049,
+    "timeYear": 1049,
+    "dailyMinutesDown": {
+      "2026-05-12": 2
+    }
   },
   {
     "name": "Keycloak DEV OIDC",
     "url": "https://auth-dev.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth-dev.sg.augend.io.ico",
     "slug": "keycloak-dev-oidc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 602,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 446,
+    "timeDay": 446,
+    "timeWeek": 446,
+    "timeMonth": 446,
+    "timeYear": 446,
+    "dailyMinutesDown": {
+      "2026-05-12": 2
+    }
   },
   {
     "name": "Django QA Health",
     "url": "https://app-qa.sg.augend.io/health/",
     "icon": "https://icons.duckduckgo.com/ip3/app-qa.sg.augend.io.ico",
     "slug": "django-qa-health",
-    "status": "up",
-    "uptime": "0.93%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.93%",
-    "uptimeMonth": "0.93%",
-    "uptimeYear": "0.93%",
-    "time": 749,
-    "timeDay": 749,
-    "timeWeek": 749,
-    "timeMonth": 749,
-    "timeYear": 749,
+    "status": "down",
+    "uptime": "70.91%",
+    "uptimeDay": "70.91%",
+    "uptimeWeek": "70.91%",
+    "uptimeMonth": "70.91%",
+    "uptimeYear": "70.91%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-05-12": 135
+      "2026-05-12": 136
     }
   },
   {
@@ -60,18 +64,20 @@
     "url": "https://auth-qa.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth-qa.sg.augend.io.ico",
     "slug": "keycloak-qa-oidc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 452,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 452,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
+    "dailyMinutesDown": {
+      "2026-05-12": 1
+    }
   },
   {
     "name": "Django UAT Health",
@@ -79,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-uat.sg.augend.io.ico",
     "slug": "django-uat-health",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 716,
     "timeDay": 716,
     "timeWeek": 716,
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2026-05-12": 135
+      "2026-05-12": 466
     }
   },
   {
@@ -99,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-uat.sg.augend.io.ico",
     "slug": "keycloak-uat-oidc",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 719,
     "timeDay": 719,
     "timeWeek": 719,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2026-05-12": 135
+      "2026-05-12": 466
     }
   },
   {
@@ -119,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-prod.sg.augend.io.ico",
     "slug": "django-prod-health",
     "status": "down",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 671,
     "timeDay": 671,
     "timeWeek": 671,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2026-05-12": 135
+      "2026-05-12": 466
     }
   },
   {
@@ -139,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-prod.sg.augend.io.ico",
     "slug": "keycloak-prod-oidc",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 682,
     "timeDay": 682,
     "timeWeek": 682,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2026-05-12": 134
+      "2026-05-12": 466
     }
   }
 ]
