@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.sg.augend.io.ico",
     "slug": "django-dev-health",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1049,
-    "timeDay": 1049,
-    "timeWeek": 1049,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "uptime": "65.70%",
+    "uptimeDay": "65.70%",
+    "uptimeWeek": "65.70%",
+    "uptimeMonth": "65.70%",
+    "uptimeYear": "65.70%",
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2026-05-12": 2
+      "2026-05-13": 45,
+      "2026-05-12": 198
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-dev.sg.augend.io.ico",
     "slug": "keycloak-dev-oidc",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "uptime": "65.74%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "65.74%",
+    "uptimeMonth": "65.74%",
+    "uptimeYear": "65.74%",
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-05-12": 2
+      "2026-05-13": 45,
+      "2026-05-12": 197
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-qa.sg.augend.io.ico",
     "slug": "django-qa-health",
     "status": "down",
-    "uptime": "70.91%",
-    "uptimeDay": "70.91%",
-    "uptimeWeek": "70.91%",
-    "uptimeMonth": "70.91%",
-    "uptimeYear": "70.91%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "uptime": "46.77%",
+    "uptimeDay": "46.77%",
+    "uptimeWeek": "46.77%",
+    "uptimeMonth": "46.77%",
+    "uptimeYear": "46.77%",
+    "time": 498,
+    "timeDay": 498,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-05-12": 136
+      "2026-05-13": 45,
+      "2026-05-12": 332
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-qa.sg.augend.io.ico",
     "slug": "keycloak-qa-oidc",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "uptime": "65.80%",
+    "uptimeDay": "65.80%",
+    "uptimeWeek": "65.80%",
+    "uptimeMonth": "65.80%",
+    "uptimeYear": "65.80%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-05-12": 1
+      "2026-05-13": 45,
+      "2026-05-12": 197
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-uat.sg.augend.io.ico",
     "slug": "django-uat-health",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 731,
+    "timeDay": 731,
+    "timeWeek": 731,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2026-05-12": 466
+      "2026-05-13": 45,
+      "2026-05-12": 662
     }
   },
   {
@@ -105,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-uat.sg.augend.io.ico",
     "slug": "keycloak-uat-oidc",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 719,
-    "timeDay": 719,
-    "timeWeek": 719,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 706,
+    "timeDay": 706,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2026-05-12": 466
+      "2026-05-13": 45,
+      "2026-05-12": 662
     }
   },
   {
@@ -125,18 +131,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-prod.sg.augend.io.ico",
     "slug": "django-prod-health",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 671,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2026-05-12": 466
+      "2026-05-13": 45,
+      "2026-05-12": 662
     }
   },
   {
@@ -145,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-prod.sg.augend.io.ico",
     "slug": "keycloak-prod-oidc",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 694,
+    "timeDay": 694,
+    "timeWeek": 694,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2026-05-12": 466
+      "2026-05-13": 45,
+      "2026-05-12": 661
     }
   }
 ]
