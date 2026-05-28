@@ -41,6 +41,8 @@ status-website:
       href: /
     - title: Security
       href: /security/
+    - title: Trust Center
+      href: https://app.eu.vanta.com/augend.io/trust/srqro22ekey70s4p9knqn
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
