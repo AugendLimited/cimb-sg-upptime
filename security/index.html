@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Security — CIMB SG Status</title>
+  <link rel="stylesheet" href="/themes/light.css" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--body-background-color, #fff);
+      color: var(--body-text-color, #333);
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    nav {
+      border-bottom: 1px solid var(--nav-border-bottom-color, #eee);
+      background-color: var(--nav-background-color, #fff);
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    nav .container {
+      max-width: 60rem;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      padding: 0 1em;
+    }
+    nav a {
+      text-decoration: none;
+      color: inherit;
+      padding: 1.5rem 1.25rem;
+      display: inline-block;
+    }
+    nav a.active {
+      font-weight: 600;
+      border-bottom: 2px solid var(--nav-active-border-color, #1abc9c);
+    }
+    main {
+      max-width: 42rem;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+    h1 {
+      font-weight: 300;
+      margin-top: 0;
+    }
+    p {
+      margin: 0 0 1.25rem;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="container">
+      <a href="/">Status</a>
+      <a href="/security/" class="active">Security</a>
+      <a href="https://github.com/AugendLimited/cimb-sg-upptime">GitHub</a>
+    </div>
+  </nav>
+  <main>
+    <h1>Security</h1>
+    <p>Augend is committed to protecting customer data and maintaining reliable, secure systems.</p>
+    <p>We use centralized identity and access management, role-based access controls, least-privilege access, and multi-factor authentication where supported to protect access to internal systems and production environments.</p>
+    <p>Customer data is protected using encryption in transit via HTTPS/TLS, and where applicable, encryption at rest through our cloud infrastructure and managed services.</p>
+    <p>Our infrastructure is monitored for availability and reliability. Security updates, vulnerability remediation, logging, backups, and incident response procedures are part of our ongoing security operations.</p>
+    <p>Code changes are managed through version control, pull requests, code review, dependency monitoring, and security scanning to help identify and remediate vulnerabilities before and after release.</p>
+    <p>Augend maintains internal security policies and controls aligned with SOC 2 requirements and is actively working toward SOC 2 compliance.</p>
+    <p>For current system availability and incident updates, please refer to <a href="/">this status page</a>. For security-related questions, contact <a href="mailto:security@augend.io">security@augend.io</a>.</p>
+  </main>
+</body>
+</html>
