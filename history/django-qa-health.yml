@@ -1,7 +1,7 @@
 url: https://app-qa.sg.augend.io/health/
-status: up
-code: 200
-responseTime: 1774
-lastUpdated: 2026-06-10T06:36:53.530Z
+status: down
+code: 503
+responseTime: 207
+lastUpdated: 2026-06-10T21:09:34.014Z
 startTime: 2026-05-12T12:57:19.199Z
 generator: Upptime <https://github.com/upptime/upptime>
