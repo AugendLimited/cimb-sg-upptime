@@ -4,17 +4,17 @@
     "url": "https://app-dev.sg.augend.io/health/",
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.sg.augend.io.ico",
     "slug": "django-dev-health",
-    "status": "up",
-    "uptime": "43.10%",
-    "uptimeDay": "58.99%",
-    "uptimeWeek": "42.95%",
-    "uptimeMonth": "40.21%",
-    "uptimeYear": "43.10%",
-    "time": 860,
-    "timeDay": 1005,
-    "timeWeek": 910,
-    "timeMonth": 801,
-    "timeYear": 860,
+    "status": "down",
+    "uptime": "43.80%",
+    "uptimeDay": "61.47%",
+    "uptimeWeek": "42.93%",
+    "uptimeMonth": "42.22%",
+    "uptimeYear": "43.80%",
+    "time": 856,
+    "timeDay": 675,
+    "timeWeek": 881,
+    "timeMonth": 795,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2026-05-13": 559,
       "2026-05-12": 198,
@@ -65,7 +65,7 @@
       "2026-06-29": 591,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 383
+      "2026-06-30": 385
     }
   },
   {
@@ -73,17 +73,17 @@
     "url": "https://auth-dev.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth-dev.sg.augend.io.ico",
     "slug": "keycloak-dev-oidc",
-    "status": "up",
-    "uptime": "42.79%",
-    "uptimeDay": "59.00%",
-    "uptimeWeek": "42.96%",
-    "uptimeMonth": "39.72%",
-    "uptimeYear": "42.79%",
-    "time": 486,
-    "timeDay": 581,
+    "status": "down",
+    "uptime": "43.50%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "42.95%",
+    "uptimeMonth": "41.72%",
+    "uptimeYear": "43.50%",
+    "time": 485,
+    "timeDay": 511,
     "timeWeek": 402,
     "timeMonth": 409,
-    "timeYear": 486,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2026-05-13": 559,
       "2026-05-12": 197,
@@ -134,7 +134,7 @@
       "2026-06-29": 591,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 383
+      "2026-06-30": 385
     }
   },
   {
@@ -142,17 +142,17 @@
     "url": "https://app-qa.sg.augend.io/health/",
     "icon": "https://icons.duckduckgo.com/ip3/app-qa.sg.augend.io.ico",
     "slug": "django-qa-health",
-    "status": "up",
-    "uptime": "43.06%",
-    "uptimeDay": "59.01%",
-    "uptimeWeek": "42.97%",
-    "uptimeMonth": "40.44%",
-    "uptimeYear": "43.06%",
-    "time": 849,
-    "timeDay": 1194,
-    "timeWeek": 751,
-    "timeMonth": 783,
-    "timeYear": 849,
+    "status": "down",
+    "uptime": "43.76%",
+    "uptimeDay": "61.53%",
+    "uptimeWeek": "42.96%",
+    "uptimeMonth": "42.45%",
+    "uptimeYear": "43.76%",
+    "time": 845,
+    "timeDay": 709,
+    "timeWeek": 733,
+    "timeMonth": 778,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2026-05-12": 332,
       "2026-05-13": 559,
@@ -203,7 +203,7 @@
       "2026-06-29": 591,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 383
+      "2026-06-30": 384
     }
   },
   {
@@ -211,15 +211,15 @@
     "url": "https://auth-qa.sg.augend.io/realms/cimb_singapore/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth-qa.sg.augend.io.ico",
     "slug": "keycloak-qa-oidc",
-    "status": "up",
-    "uptime": "42.99%",
-    "uptimeDay": "59.02%",
-    "uptimeWeek": "42.98%",
-    "uptimeMonth": "40.02%",
-    "uptimeYear": "42.99%",
+    "status": "down",
+    "uptime": "43.70%",
+    "uptimeDay": "61.56%",
+    "uptimeWeek": "42.97%",
+    "uptimeMonth": "42.03%",
+    "uptimeYear": "43.70%",
     "time": 411,
-    "timeDay": 522,
-    "timeWeek": 382,
+    "timeDay": 433,
+    "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
       "2026-06-29": 591,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 383
+      "2026-06-30": 384
     }
   },
   {
@@ -294,7 +294,7 @@
     "dailyMinutesDown": {
       "2026-05-13": 1108,
       "2026-05-12": 662,
-      "2026-06-30": 384,
+      "2026-06-30": 1264,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -363,7 +363,7 @@
     "dailyMinutesDown": {
       "2026-05-13": 1108,
       "2026-05-12": 662,
-      "2026-06-30": 384,
+      "2026-06-30": 1264,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -432,7 +432,7 @@
     "dailyMinutesDown": {
       "2026-05-13": 1108,
       "2026-05-12": 662,
-      "2026-06-30": 384,
+      "2026-06-30": 1264,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -501,7 +501,7 @@
     "dailyMinutesDown": {
       "2026-05-13": 1108,
       "2026-05-12": 661,
-      "2026-06-30": 384,
+      "2026-06-30": 1264,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
