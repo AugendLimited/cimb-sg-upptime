@@ -1,7 +1,7 @@
 url: https://app-dev.sg.augend.io/health/
 status: down
-code: 500
-responseTime: 820
-lastUpdated: 2026-08-05T11:34:14.849Z
+code: 503
+responseTime: 384
+lastUpdated: 2026-08-05T23:19:59.509Z
 startTime: 2026-05-12T12:57:16.236Z
 generator: Upptime <https://github.com/upptime/upptime>
